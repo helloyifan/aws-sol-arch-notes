@@ -23,4 +23,4 @@ Definition:
 * Edge regions are not locations is the key detail
 * A region is a physical location in the world which conssits of two or more availability Zones (AZ's)
 * An AZ is one or more discrete data centers, each with redundant power, networking and connectivity, housed in separate facilities
-* Edge Locations are endpoints for AWS which are used fro caching content. Typcally consists of CloudFront
+* Edge Locations are endpoints for AWS which are used for caching content. Typcally consists of CloudFront
